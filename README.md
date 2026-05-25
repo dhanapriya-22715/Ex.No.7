@@ -102,7 +102,7 @@ The system uses prompt engineering techniques to communicate effectively with th
 
 “Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time.”
 
-<img width="850" height="560" alt="image" src="https://github.com/user-attachments/assets/80150145-4a66-4e91-9271-e3c9c95027da" />
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/80150145-4a66-4e91-9271-e3c9c95027da" />
 
 
 # Breakdown of the Prompt
@@ -424,7 +424,7 @@ Wellness Tip: Drink enough water and take short breaks.
 
 # Expected Output
 
-<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/3d7e4b9f-c814-4c95-a204-4e5f3c79f1f4" />
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/3d7e4b9f-c814-4c95-a204-4e5f3c79f1f4" />
 
 
 ## Personal Productivity Assistant Features
