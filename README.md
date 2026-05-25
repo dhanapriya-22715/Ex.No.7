@@ -51,9 +51,11 @@ The main objectives of this experiment are:
 * OpenAI API / Gemini API (Optional)
 * Internet Connection
 
-# Introduction
+# LLM :
 
-Large Language Models (LLMs) are advanced AI systems trained on massive amounts of text data to understand and generate human-like responses. Prompt engineering is the process of designing effective instructions or queries that guide the AI model to produce accurate and meaningful outputs.
+Large Language Models (LLMs) are advanced AI systems trained on massive amounts of text data to understand and generate human-like responses. Prompt engineering is the process of designing effective instructions or queries that guide the AI model to produce accurate and meaningful outputs.Large Language Models (LLMs) are powerful AI systems capable of understanding and generating human language. They play an important role in modern AI applications such as chatbots, virtual assistants, education systems, and productivity tools. In this experiment, LLMs enable the productivity assistant to interact intelligently and provide personalized assistance.
+
+<img width="1000" height="512" alt="image" src="https://github.com/user-attachments/assets/db88fdc5-e76a-4840-835f-48529c658d47" />
 
 Prompt-based applications are increasingly used in:
 
