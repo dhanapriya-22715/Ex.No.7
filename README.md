@@ -2,7 +2,8 @@
 
 # Date:
 # Register no.
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+# Aim:
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 
 # Explanation: 
@@ -28,14 +29,7 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
-<img width="3200" height="2400" alt="image" src="https://github.com/user-attachments/assets/f2200895-cc49-4076-948f-b8e9b650d8a4" />
-
-## Development of a Prompt-Based Personal Productivity Assistant Using Large Language Models
-
-# Aim
-
-To develop a prompt-based application using [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com) that assists users in managing daily activities such as task organization, scheduling reminders, wellness guidance, and answering general queries through natural language interaction. The experiment also demonstrates how prompt engineering techniques can improve creativity, personalization, and practical problem-solving using Large Language Models (LLMs).
-
+<img width="800" height="600" alt="wkrSthLSeUCsSBXp9DiK_3_ADwEk84MvyykaKBzewXUMSWwAx3eGYmmy3ynnz231HceuyhWiPWSmhq3B3b_GUN9Tld6ysel7nza3DchpKNU3_mUoVPPLaFxOHqofnBwFLkqXXrXqipxkV5Fpvi2cNju-1XRp8cx86SWBTEQUqb9H6UO7drCjJ1PI1ofdLXOP" src="https://github.com/user-attachments/assets/47013a29-5b38-4393-a178-8869d39e9f57" />
 
 # Objective
 
@@ -104,9 +98,9 @@ The system uses prompt engineering techniques to communicate effectively with th
 
 ## Main Prompt
 
-> “Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time.”
+“Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time.”
 
-<img width="1290" height="860" alt="image" src="https://github.com/user-attachments/assets/80150145-4a66-4e91-9271-e3c9c95027da" />
+<img width="850" height="560" alt="image" src="https://github.com/user-attachments/assets/80150145-4a66-4e91-9271-e3c9c95027da" />
 
 
 # Breakdown of the Prompt
@@ -144,7 +138,7 @@ The system uses prompt engineering techniques to communicate effectively with th
 5. The response is displayed to the user.
 6. User preferences are optionally stored for future interactions.
 
-<img width="1290" height="860" alt="image" src="https://github.com/user-attachments/assets/4be831a2-c0a6-4ec3-9e57-28fc736fb1a3" />
+<img width="790" height="460" alt="image" src="https://github.com/user-attachments/assets/4be831a2-c0a6-4ec3-9e57-28fc736fb1a3" />
 
 
 # Procedure
