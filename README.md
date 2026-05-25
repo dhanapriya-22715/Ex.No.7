@@ -99,12 +99,8 @@ The system uses prompt engineering techniques to communicate effectively with th
 # Explanation of the Prompt
 
 ## Main Prompt
-
 “Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time.”
-
 <img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/80150145-4a66-4e91-9271-e3c9c95027da" />
-
-
 # Breakdown of the Prompt
 
 | Prompt Component                           | Purpose                                 |
